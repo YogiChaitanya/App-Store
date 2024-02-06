@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-item-card {
+  background-color: #ffffff;
+  padding: 5px;
+  text-align: center;
+
+  border: none;
+  border-radius: 5px;
+
+  margin: 5px;
+}
+
+.app-img {
+  height: 20px;
+  width: 20px;
+}

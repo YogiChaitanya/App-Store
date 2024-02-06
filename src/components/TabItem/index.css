@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.btn {
+  font-size: 20px;
+  color: #7b8794;
+
+  cursor: pointer;
+  outline: none;
+}
+
+.active-btn {
+  color: #2563eb;
+  text-decoration: underline;
+}
